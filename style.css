@@ -1,0 +1,9 @@
+header {
+    background-color: gainsboro; /* Light gray background */
+    padding: 10px
+    text-align: left;
+    color: rgb(31, 65, 221);
+    height: 50px;
+    text-justify: inter-word;
+    font-family: 'Roboto', sans-serif;
+}
