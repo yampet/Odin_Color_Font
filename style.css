@@ -7,3 +7,59 @@ header {
     text-justify: inter-word;
     font-family: 'Roboto', sans-serif;
 }
+
+.fonty {
+    background-color: darkgray;
+
+}
+
+.fonty {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgb(31, 65, 221);
+    text-align: left;
+    padding: 10px;
+}
+
+.fonty .fonti {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    
+}
+.fonty .rob {
+      font-size: 20px;
+  }
+
+.fonty .color {
+    font-size: x-small;
+}
+
+.fonty .IF2937 {
+    margin-bottom: 30px;
+}
+
+.fonty .weighty {
+    font-weight: 900; /* Bold */
+    margin-bottom: 40px;
+}
+.fonty .logot1 {
+    margin-bottom: 30px;
+    font-weight: lighter;
+}
+
+.fonty .logot2 {
+    margin-bottom: 20px;
+}
+
+.butt {
+    margin: 0 0 20px 0;
+    gap: 10px;
+    padding: 10px;
+    background-color: rgb(233, 235, 247);
+}
+
+.butt .butcol1 {
+    color: #3882f6;
+    padding-bottom: 20px;
+    font-size: large;
+}
