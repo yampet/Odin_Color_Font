@@ -67,3 +67,29 @@ header {
     padding-bottom: 20px;
     font-size: large;
 }
+
+.butt .butcol2 {
+    font-weight: 900;
+    font-size:36px;
+}
+
+.footy {
+    background-color: lightgray; /* Light gray background */
+    padding: 10px;
+    text-align: left;
+    color: #1F41DD; /* Dark blue text */
+    font-family: 'Roboto', sans-serif;
+    margin: 0 0 0 0;
+}
+.footy .footcol {
+    font-size: small;
+    margin-bottom: 10px;
+
+}
+
+.footy .footcol2 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937; /* Dark gray text */
+    font-weight: lighter;
+}
